@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is PROD.
+          This is QA.
         </p>
       </header>
     </div>
